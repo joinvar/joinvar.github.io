@@ -1,15 +1,16 @@
-# 项目介绍
+# AI Coding 项目介绍
 
-这是一个简洁的项目入口页面，用于集中展示项目定位、核心亮点以及可视化内容。你可以在此快速了解项目的目标、使用方式与整体氛围。
+这里是一个面向 AI 编码场景的项目入口页面，聚焦“更快、更准、更稳”的开发体验。你可以在此了解本项目的目标、能力边界以及核心优势。
 
-## 亮点概览
+## 能力亮点
 
-- 结构清晰：信息分层清楚，便于快速阅读。
-- 内容易扩展：后续可添加更多模块与章节。
-- 视觉友好：配有高质量图片，提升整体质感。
+- 智能补全：基于上下文的代码补全与片段推荐。
+- 自动审查：发现潜在 Bug 与风格问题，提升代码质量。
+- 测试生成：自动生成基础测试用例，降低维护成本。
+- 重构建议：提供可操作的重构路径与风险提示。
 
-## 精美图片
+## AI Coding 视觉
 
-![山间晨雾](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80)
-![海岸日落](https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1200&q=80)
-![城市夜景](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80)
+![AI 芯片与电路](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80)
+![代码与开发环境](https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?auto=format&fit=crop&w=1200&q=80)
+![未来感机器人](https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1200&q=80)
